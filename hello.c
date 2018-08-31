@@ -1,5 +1,5 @@
 /**
- * Author: Luke Downs and Leo Lu
+ * Author: Luke Downs and Jake Long
  * Date: 2018/08/21
  *
  * A simple hello world program in C
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Luke, Computer Science and Leo, Computer Engineering\n");
+  printf("Luke, Computer Science and Jake Long Computer Science");
+
 
   return 0;
 }
